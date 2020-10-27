@@ -7,3 +7,4 @@ I am going to add Euclid algo Code in my repository.
 Today(18 october 2020), I have added codes of if statement,if else, for loop, while loop in java language. 
 Assignment Statement code. 18 october 2020(10:09 PM).
 20 october 2020 5:54 pm. Method Calling function.
+28 october 2020; 12:09 AM assed libraries and Binary Search Sorry Github for late heheh....!!!!
